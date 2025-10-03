@@ -1,0 +1,15 @@
+[
+  {
+    "titre": "Incendie",
+    "description": "En cas d'incendie, alertez les secours.",
+    "risques": "Feu, fumée",
+    "moyens": "Extincteur, alarme"
+  },
+  {
+    "titre": "Inondation",
+    "description": "Coupez l'électricité et évacuez.",
+    "risques": "Eau, glissement",
+    "moyens": "Pompe, évacuation"
+  }
+]
+
